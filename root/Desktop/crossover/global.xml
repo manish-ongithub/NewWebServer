@@ -1,0 +1,14 @@
+<global>
+	<database>
+		<url>mongodb://192.168.0.23:27017</url>
+		<db>manishDB</db>
+		<collection>myinventory</collection>
+	</database>
+	<email>
+		<mailserver>gmail.com</mailserver>
+		<smtpserver>smtp.gmail.com</smtpserver>
+		<smtpport>465</smtpport>
+		<username>webmail2manish@gmail.com</username>
+		<password>Zqk42upl</password>
+	</email>
+</global>

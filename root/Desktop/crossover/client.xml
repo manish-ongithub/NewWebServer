@@ -1,0 +1,15 @@
+<client key="xxx" mail="manish_kumar.singh@yahoo.co.in">
+ <alert type="memory" limit="50%" />
+ <alert type="cpu" limit="20%" />
+ <alert type="process" limit="1" />
+</client>
+<client key="yyy" mail="manish@exact-solutions.com">
+ <alert type="memory" limit="10%" />
+ <alert type="cpu" limit="30%" />
+ <alert type="process" limit="1" />
+</client>
+<client key="abc123" mail="manish@exact-solutions.com">
+ <alert type="memory" limit="10%" />
+ <alert type="cpu" limit="30%" />
+ <alert type="process" limit="1" />
+</client>
